@@ -68,6 +68,10 @@
     flex-wrap: wrap;
 }
 
+.animated {
+  opacity: 0;
+}
+
 /* Responsive styles */
 
 @media screen and (max-width: 768px) {
